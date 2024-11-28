@@ -1,0 +1,33 @@
+A new look at why old age is linked to severe, even fatal COVID
+by Delthia Ricks , Medical Xpress
+
+Credit: Vlada Karpovich from Pexels
+A longstanding question has nagged the COVID battle for more than four years: Why does the infection cause severe disease in older people? The question has remained despite a global cadre of medical investigators having produced some of the reasons—but not the entire story.
+
+Ever since the beginning of the pandemic in 2020, it has been abundantly clear that older adults are at substantial risk of severe, even fatal COVID. Yet, the underlying mechanisms for their susceptibility were not always clear despite studies that took co-morbidities into account, like diabetes, heart and lung disorders, and other chronic vagaries of age that can worsen a bout with an infectious disease.
+
+To date, scientists have blamed a dysregulated immune system, an age-related affinity toward excessive blood clotting, and an overall decline in the key soldiers of the adaptive immune system, T and B cells, to explain increased risks for severe COVID in the aging population. And while all of those factors may play a role, an inevitable question looms large: Why?
+
+A new multicenter clinical study, reported in Science Translational Medicine, has provided comprehensive answers and peels away some of the mystery surrounding poor outcomes for older people. Scientists from the University of California, San Francisco and their far-flung collaborators throughout the United States, examined the infection's progression by studying a large longitudinal clinical cohort. The study's subjects were people whose ages ranged from the very young to the exceptionally old.
+
+"We evaluated the impact of aging on the host immune response in the blood and the upper airway, as well as in the nasal microbiome," reported Dr. Hoang Van Phan, lead author of the research.
+
+Describing the investigation as a prospective, multicenter cohort trial of 1,031 "vaccine-naïve"—unvaccinated—patients between the ages of 18 and 96 years old, Phan added that all of the people in the trial, regardless of age, were hospitalized for COVID. The aim, according to Phan, was to see what differences age caused in response to infection with SARS-CoV-2.
+
+Going into the research, Phan and colleagues knew that age correlated with an impaired ability to clear the virus. They also knew older patients were more likely to experience increased disruptions in the body's inflammatory and immune responses.
+
+Worse, epidemiological studies had long shown that older age itself was a major risk factor for severe COVID. Adults over the age of 75 are 140 times more likely to die from the condition than people in younger age groups.
+
+Yet, even in the face of a powerful epidemiological pattern, the core biological reasons behind the impact of aging remained elusive, including why older people tend to harbor higher concentrations of the virus. To find out why, the team conducted a battery of sophisticated tests to ferret out the answers.
+
+"We performed mass cytometry, serum protein profiling, anti–SARS-CoV-2 antibody assays, and blood and nasal transcriptomics," Phan wrote in their article, underscoring that analyzing blood and nasal swab specimens were key to their research because the virus can be found in greater abundance in both blood and the upper airway. Results from their tests bore novel data and a new level of understanding.
+
+"Older age correlated with increased SARS-CoV-2 viral abundance upon hospital admission, delayed viral clearance, and increased type I interferon gene expression in both the blood and upper airway," Phan continued.
+
+"We also observed age-dependent up-regulation of innate immune signaling pathways and down-regulation of adaptive immune signaling pathways," said Phan, who further explained that the innate immune system's monocyte production escalated while naïve T and B cells of the adaptive immune system were low.
+
+Unlike younger patients, older ones also displayed more active innate immune pathways and a persistent rise in pro-inflammatory genes and cytokines, suggesting that advancing age may disrupt the body's ability to turn off the inflammatory response. Additionally, biomarkers of disease severity, such as interleukin-6, were the most extreme in the oldest patients. Together, these data provide insight into why age is a major risk factor for severe COVID, the team concluded.
+
+"Our study finds that aging is associated with impaired viral clearance, dysregulated immune signaling, and persistent and potentially pathologic activation of pro-inflammatory genes and proteins," Phan added, suggesting the new findings may pave the way to treatment modalities specifically targeted toward people of advanced age.
+
+"These differences raise the possibility that older adults with severe COVID-19 may respond differently, and perhaps more favorably, to immunomodulatory therapies directed at certain inflammatory cytokines."

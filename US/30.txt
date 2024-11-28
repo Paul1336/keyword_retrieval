@@ -1,0 +1,56 @@
+Older Adult Falls Data
+At a glance
+Falls are the leading cause of injury for adults ages 65 years and older. Older adult falls are common, costly, and preventable.
+
+Overview
+An animated chart of older adult falls fatal injury data, showing how selecting various years loads different sets of data.
+Unintentional older adult fall trends.
+Falls are the leading cause of injury for adults ages 65 years and older.1 Over 14 million, or 1 in 4 older adults report falling every year.2 This chart shows the number of older adult fall-related deaths by month and year, including the most recent provisional data available. You can access the full interactive chart by clicking on the link below.
+
+View older adult fall trends
+
+Falls among adults aged 65 and older are common, costly, and preventable. Falls are the leading cause of fatal and nonfatal injuries among older adults.1
+
+Keep reading to learn more about the falls and fall death rates in your state.
+
+Older adult falls reported by state
+In the United States, over 14 million, or one in four, adults ages 65 and older (older adults), report falling each year.2 While not all falls result in an injury, about 37% of those who fall reported an injury that required medical treatment or restricted their activity for at least one day, resulting in an estimated nine million fall injuries.3
+
+While older adult falls are common across all states, there is variability.2
+
+Select a year from the drop down to change the map information.
+
+Skip Over Map Container
+
+Age-Adjusted Fall Percentages*
+
+Skip Data Table
+Data Table
+Download Data (CSV)
+Skipped data table.
+Data source: Centers for Disease Control and Prevention. Behavioral Risk Factor Surveillance System (BRFSS) – https://www.cdc.gov/brfss/annual_data/annual_2020.html
+
+*Age-adjusted percentages standardized to the 2000 U.S. population with age groups 65–74, 75–84, and ≥85 years using the direct method.
+
+Note for grayed-out states on the 2012 map: In the 2012 BRFSS survey, Michigan, Oregon, and Wisconsin used a different falls question from the rest of the states. Therefore, the 2012 falls estimates could not be calculated for these states.
+
+Deaths from older adult falls
+Falls are the leading cause of injury-related death among adults ages 65 and older, and the fall death rate is increasing.4 The age-adjusted fall death rate increased by 41% from 55.3 per 100,000 older adults in 2012 to 78.0 per 100,000 older adults in 2021.5
+
+The rising number of deaths from falls among older adults can be addressed by screening for fall risk and intervening to address risk factors such as use of medicines that may increase fall risk, or poor strength and balance.
+
+For more information on how to screen, assess, and intervene to reduce fall risk, visit www.cdc.gov/STEADI.
+
+Select a year from the drop down to change the map information.
+
+Skip Over Map Container
+
+
+Data Table
+Download Data (CSV)
+Skipped data table.
+Data source: Centers for Disease Control and Prevention. National Center for Health Statistics. National Vital Statistics System, Mortality 1999–2021 on CDC WONDER Online Database. Accessed January 24, 2023. https://wonder.cdc.gov/ucd-icd10.html
+
+*Age-adjusted death rates standardized to the 2000 U.S. population with age groups 65–74, 75–84, and ≥85 years using the direct method.
+
+**Rates are marked as "unreliable" when the death count is less than 20.
